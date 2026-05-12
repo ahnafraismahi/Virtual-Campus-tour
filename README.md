@@ -9,7 +9,7 @@
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
-- [Video Overview & Media](#video-overview) 
+- [Video Overview](#video-overview) 
 - [Key Features](#key-features)
 - [Technical Architecture](#technical-architecture)
 - [Project Structure](#project-structure)
