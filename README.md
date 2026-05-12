@@ -45,15 +45,13 @@ This application showcases a complete game engine-like system built from scratch
 ## 🎥 Video Overview & Media
 
 ### YouTube Video Link (Placeholder)
-> **Watch the full campus tour and feature demo on YouTube:**  
- 
-> *Example:* [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
+> **Day night Transition:**  
+> *Check* [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
+> **Watch the full campus tour and feature on YouTube:**  
+> *Check:* [https://youtu.be/15VdDJYxvtY](https://youtu.be/15VdDJYxvtY)
+> **Random bird path and Wind simulation Tree leaves fractals**  
+> *Check:* [https://www.youtube.com/watch?v=w35PlbS7BvE](https://www.youtube.com/watch?v=w35PlbS7BvE)
 
-### Media Player: Overview and Day-Night Transition
-> *Placeholder for an embedded media player showing an overview of the campus and the dynamic day-night cycle.*  
-> `[MEDIA PLAYER: Overview and Day-Night Transition – INSERT VIDEO OR INTERACTIVE WIDGET HERE]`  
-
-You can replace this text with an actual `<video>` HTML tag, a YouTube embed, or a link to a hosted video file.
 
 ### 🖼️ Viewport Images
 Below are placeholder references for viewport screenshots. Replace the file paths with your actual images.
