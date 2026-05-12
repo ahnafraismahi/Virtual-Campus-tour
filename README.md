@@ -42,10 +42,10 @@ This application showcases a complete game engine-like system built from scratch
 
 ---
 
-## 🎥 Video Overview & Media
+## 🎥 Video Overview 
 
-### YouTube Video Link (Placeholder)
-> **Day night Transition:**  
+### YouTube Video Link 
+> **Day Night Transition:**  
 > *Check* [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
 > **Watch the full campus tour and feature on YouTube:**  
 > *Check:* [https://youtu.be/15VdDJYxvtY](https://youtu.be/15VdDJYxvtY)
