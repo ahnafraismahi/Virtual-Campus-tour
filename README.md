@@ -2,7 +2,7 @@
 
 > **A comprehensive 3D visualization of KUET (Khulna University of Engineering & Technology) campus environment using advanced OpenGL graphics, featuring dynamic day-night cycles, interactive NPCs, physics simulation, and immersive real-time rendering.**
 
-![Campus Visualization](academic%20building.jpeg)
+![Campus Visualization](academic_building.jpeg)
 
 ---
 
