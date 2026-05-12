@@ -61,7 +61,7 @@ Below are placeholder references for viewport screenshots. Replace the file path
 
 | Viewport | Description | Image |
 |----------|-------------|-------|
-| **Viewport 1** | First‑person free‑roam mode | `[viewport1.png]` |
+| **Viewport 1** | First‑person free‑roam mode | ![Viewport 1](viewport1.png) |
 | **Viewport 2** | Ground‑clamped “car” mode | `[viewport2.png]` |
 | **Viewport 3** | Day‑night transition (night view) | `[viewport3.png]` |
 
