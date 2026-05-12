@@ -46,7 +46,7 @@ This application showcases a complete game engine-like system built from scratch
 
 ### YouTube Video Link (Placeholder)
 > **Watch the full campus tour and feature demo on YouTube:**  
-> `[INSERT YOUR YOUTUBE VIDEO URL HERE]`  
+ 
 > *Example:* [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
 
 ### Media Player: Overview and Day-Night Transition
