@@ -9,6 +9,7 @@
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
+- [Video Overview & Media](#video-overview--media) 
 - [Key Features](#key-features)
 - [Technical Architecture](#technical-architecture)
 - [Project Structure](#project-structure)
@@ -38,6 +39,32 @@ This application showcases a complete game engine-like system built from scratch
 - **Multiple camera modes** for exploration and navigation
 - **Procedurally generated elements** using fractals and curves
 - **Extensive texture mapping** with normal mapping support
+
+---
+
+## 🎥 Video Overview & Media
+
+### YouTube Video Link (Placeholder)
+> **Watch the full campus tour and feature demo on YouTube:**  
+> `[INSERT YOUR YOUTUBE VIDEO URL HERE]`  
+> *Example:* [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
+
+### Media Player: Overview and Day-Night Transition
+> *Placeholder for an embedded media player showing an overview of the campus and the dynamic day-night cycle.*  
+> `[MEDIA PLAYER: Overview and Day-Night Transition – INSERT VIDEO OR INTERACTIVE WIDGET HERE]`  
+
+You can replace this text with an actual `<video>` HTML tag, a YouTube embed, or a link to a hosted video file.
+
+### 🖼️ Viewport Images
+Below are placeholder references for viewport screenshots. Replace the file paths with your actual images.
+
+| Viewport | Description | Image |
+|----------|-------------|-------|
+| **Viewport 1** | First‑person free‑roam mode | `[viewport1.png]` |
+| **Viewport 2** | Ground‑clamped “car” mode | `[viewport2.png]` |
+| **Viewport 3** | Day‑night transition (night view) | `[viewport3.png]` |
+
+> **Note:** Add the actual image files (e.g., `viewport1.png`, `viewport2.png`, `viewport3.png`) to your repository and update the markdown links accordingly.
 
 ---
 

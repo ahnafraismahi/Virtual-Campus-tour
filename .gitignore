@@ -1,6 +1,5 @@
 # Ignore all image files (we don't want them on GitHub)
 *.jpg
-*.jpeg
 *.png
 *.pptx
 
