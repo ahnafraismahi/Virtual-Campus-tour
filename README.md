@@ -59,13 +59,14 @@ This application showcases a complete game engine-like system built from scratch
 ### 🖼️ Viewport Images
 Below are placeholder references for viewport screenshots. Replace the file paths with your actual images.
 
-| Viewport | Description | Image |
+| name of the image | Description | Image |
 |----------|-------------|-------|
-| **Viewport 1** | First‑person free‑roam mode | ![Viewport 1](viewport1.png) |
-| **Viewport 2** | Ground‑clamped “car” mode | `[viewport2.png]` |
-| **Viewport 3** | Day‑night transition (night view) | `[viewport3.png]` |
+| **4 viewport** | 4 viewport | ![Viewport 4](viewport1.png) |
+| **spotlight** | effect of spot light | ![Viewport 4](spotlight.png) |
+| **clock** | os time | ![Viewport 4](8.01.png) |
+| **day night** | Day night | ![Viewport 4](dn.png) |
 
-> **Note:** Add the actual image files (e.g., `viewport1.png`, `viewport2.png`, `viewport3.png`) to your repository and update the markdown links accordingly.
+
 
 ---
 
