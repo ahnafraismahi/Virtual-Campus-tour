@@ -50,7 +50,7 @@ This application showcases a complete game engine-like system built from scratch
 > **Watch the full campus tour and feature on YouTube:**  
 > *Check:* [https://youtu.be/15VdDJYxvtY](https://youtu.be/15VdDJYxvtY)
 > **Random bird path and Wind simulation Tree leaves fractals**  
-> *Check:* [https://www.youtube.com/watch?v=w35PlbS7BvE](https://www.youtube.com/watch?v=w35PlbS7BvE)
+> *Check:* [https://youtu.be/w35PlbS7BvE](https://youtu.be/w35PlbS7BvE)
 
 
 ### 🖼️ Viewport Images
