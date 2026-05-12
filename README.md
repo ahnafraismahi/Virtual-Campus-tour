@@ -44,13 +44,16 @@ This application showcases a complete game engine-like system built from scratch
 
 ## 🎥 Video Overview 
 
-### YouTube Video Link 
-> **Day Night Transition:**  
-> *Check* [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
-> **Watch the full campus tour and feature on YouTube:**  
-> *Check:* [https://youtu.be/15VdDJYxvtY](https://youtu.be/15VdDJYxvtY)
-> **Random bird path and Wind simulation Tree leaves fractals:**  
-> *Check:* [https://youtu.be/w35PlbS7BvE](https://youtu.be/w35PlbS7BvE)
+### YouTube Video Links
+
+- **Day-Night Transition:**  
+  [https://youtu.be/GTkklL8xq2Q](https://youtu.be/GTkklL8xq2Q)
+
+- **Full Campus Tour & Features Overview:**  
+  [https://youtu.be/15VdDJYxvtY](https://youtu.be/15VdDJYxvtY)
+
+- **Random Bird Path & Wind Simulation + Tree Leaves Fractals:**  
+  [https://youtu.be/w35PlbS7BvE](https://youtu.be/w35PlbS7BvE)
 
 
 ### 🖼️ Viewport Images
