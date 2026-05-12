@@ -1,0 +1,19 @@
+# Ignore all image files (we don't want them on GitHub)
+*.jpg
+*.jpeg
+*.png
+*.pptx
+
+# Ignore Visual Studio junk
+.vs/
+x64/
+Debug/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.user
+*.suo
+*.db
+*.ipch
+*.tlog
